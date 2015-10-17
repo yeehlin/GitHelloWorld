@@ -135,3 +135,4 @@ For more information on both of these topics, please see the section on
 redistributing Visual C++ applications in MSDN documentation.
 
 /////////////////////////////////////////////////////////////////////////////
+version 1.2
